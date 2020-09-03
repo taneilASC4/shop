@@ -2,10 +2,10 @@
 
  This template includes 17 unique HTML pages and a working PHP contact form.
 
-##Author:
+# Author:
     Taneil Knowles
 
-##License: 
+## License: 
 
 Copyright (c) 1990-1999 Sleepycat Software. All rights reserved.
 
